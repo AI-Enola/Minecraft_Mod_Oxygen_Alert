@@ -1,0 +1,10 @@
+{
+	"low_oxygen_sound" : {
+		"subtitle" : "sounds.oxygenalert.low_oxygen_sound",
+		"sounds" : [
+			"oxygenalert:low_oxygen_sound"
+		]
+	
+	}
+}
+
